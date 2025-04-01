@@ -46,4 +46,5 @@ Professional Translations: All content has been professionally translated by Sta
 ## Live Site
 Visit the live application at <a href="https://www.karpon.fi">Karpon.fi
 ## Project Status
-Karpon is a fully developed and deployed application. Due to the proprietary nature of the code, the source is not publicly available.
+Karpon is a fully developed and deployed application. Due to the proprietary nature of the code, the source is not publicly available. 
+However the version control was done on Azure DevOps.
